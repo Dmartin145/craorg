@@ -1,7 +1,6 @@
 <template>
   <Home>
     <div class="container container-home">
-      <!-- Test -->
       <div class="row">
         <div class="col-md-6 hero-left align-items-center">
           <g-image class="hero-image" src="~/assets/images/home/left-hero-desk.png" alt />
@@ -24,8 +23,16 @@
           </div>
         </div>
       </div>
-
       <div class="row">
+        <div class="col-md-12">
+          <div class="image-cta">
+            <g-link to="/e-training-programs">
+              <g-image class="e-cta" src="~/assets/images/home/CRA_ETraining_CTA.png" alt />
+            </g-link>
+          </div>
+        </div>
+      </div>
+      <div class="row" style="margin-top: -1px;">
         <div class="col-md-12">
           <div class="hero-bottom">
             <p>Let us help you</p>
@@ -202,6 +209,12 @@ export default {
   }
 }
 
+.image-cta {
+  margin-top: -185px;
+  text-align: center;
+  margin-left: -4px;
+}
+
 @media screen and (max-width: 1200px) {
   .hero-copy {
     padding: 15% 9%;
@@ -247,5 +260,10 @@ export default {
   .hero-right {
     padding-left: 15px;
   }
+
+  .image-cta {
+    display: none;
+  }
 }
+
 </style>
