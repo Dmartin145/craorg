@@ -27,7 +27,7 @@
         <div class="col-md-12">
           <div class="image-cta">
             <g-link to="/e-training-programs">
-              <g-image class="training-image" src="~/assets/images/home/CRA_ETraining_CTA.png" alt />
+              <g-image class="training-image" src="~/assets/images/home/CRA_ETraining_CTA_2.png" alt />
             </g-link>
           </div>
         </div>
@@ -210,9 +210,9 @@ export default {
 }
 
 .image-cta {
-  margin-top: -230px;
+  margin-top: -270px;
   text-align: center;
-  margin-left: -1px;
+  margin-left: -4px;
 }
 
 .training-image {
@@ -225,7 +225,7 @@ export default {
   }*/
 
   .image-cta {
-    margin-top: -200px;
+    margin-top: -225px;
   } 
 
 }
@@ -246,7 +246,7 @@ export default {
 
 @media only screen and (max-width: 1024px) {
   .image-cta {
-    margin-top: -170px;
+    margin-top: -195px;
   } 
 }
 
