@@ -210,7 +210,7 @@ export default {
 }
 
 .image-cta {
-  margin-top: -270px;
+  margin-top: -295px;
   text-align: center;
   margin-left: -4px;
 }
