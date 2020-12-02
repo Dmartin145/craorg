@@ -210,19 +210,23 @@ export default {
 }
 
 .image-cta {
-  margin-top: -185px;
+  margin-top: -230px;
   text-align: center;
-  margin-left: -4px;
+  margin-left: -1px;
 }
 
-@media only screen and (min-width: 1125px) {
-  .training-image {
+.training-image {
     width: 17%;
   }
 
+@media only screen and (max-width: 1125px) {
+  /* .training-image {
+    width: 17%;
+  }*/
+
   .image-cta {
-    margin-top: -260px;
-  }
+    margin-top: -200px;
+  } 
 
 }
 
@@ -238,6 +242,12 @@ export default {
       font-size: 3.5rem;
     }
   }
+}
+
+@media only screen and (max-width: 1024px) {
+  .image-cta {
+    margin-top: -170px;
+  } 
 }
 
 @media screen and (max-width: 970px) {
