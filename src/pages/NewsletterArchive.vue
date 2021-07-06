@@ -105,7 +105,7 @@
       </p>
       <p>
         <a
-          style="font-size: 13px;"
+          
           title="September"
           href="http://archive.constantcontact.com/fs161/1105757923807/archive/1117552263233.html"
           target="_blank"
@@ -113,7 +113,7 @@
       </p>
       <p>
         <a
-          style="font-size: 13px;"
+          
           title="September"
           href="http://archive.constantcontact.com/fs161/1105757923807/archive/1117177541297.html"
           target="_blank"
@@ -121,7 +121,7 @@
       </p>
       <p>
         <a
-          style="font-size: 13px;"
+          
           title="September"
           href="http://archive.constantcontact.com/fs161/1105757923807/archive/1116332787797.html"
           target="_blank"
@@ -228,126 +228,6 @@
           href="http://archive.constantcontact.com/fs088/1105757923807/archive/1105769497574.html"
           target="_blank"
         >Volume 10, Issue 2, June, 2011 (PDF) -&gt;</a>
-      </p>
-      <p>
-        <a
-          href="http://craorg.com/core/wp-content/uploads/2011/06/CRANewsletter1_2011a-1-1.pdf"
-          target="_blank"
-        >Volume 10, Issue 1, January, 2011 (PDF) -&gt;</a>
-      </p>
-      <p>
-        <a
-          href="http://craorg.com/pdf/CRANewsletter11_10c-1.pdf"
-          target="_blank"
-        >Volume 9, Issue 3, November, 2010 (PDF) -&gt;</a>
-      </p>
-      <p>
-        <a
-          href="http://craorg.com/pdf/CRA_Newsletter_June_10_singles.pdf"
-          target="_blank"
-        >Volume 9, Issue 2, June, 2010 (PDF) -&gt;</a>
-      </p>
-      <p>
-        <a
-          href="http://craorg.com/pdf/february2010Newsletter.pdf"
-          target="_blank"
-        >Volume 9, Issue 1, March, 2010 (PDF) -&gt;</a>
-      </p>
-      <p>
-        <a
-          href="http://craorg.com/pdf/CriticalResponderOct09.pdf"
-          target="_blank"
-        >Volume 8, Issue 3, October, 2009 (PDF) -&gt;</a>
-      </p>
-      <p>
-        <a
-          href="http://craorg.com/pdf/CRANewsletter609.pdf"
-          target="_blank"
-        >Volume 8, Issue 2, June, 2009 (PDF) -&gt;</a>
-      </p>
-      <p>
-        <a
-          href="http://craorg.com/pdf/CRA NewsletterVol7_issue1.pdf"
-          target="_blank"
-        >Volume 7, Issue 1, February, 2009 (PDF) -&gt;</a>
-      </p>
-      <p>
-        <a
-          href="http://craorg.com/pdf/CriticalResponder10_08.pdf"
-          target="_blank"
-        >Volume 6, Issue 2,&nbsp; October, 2008 (PDF) -&gt;</a>
-      </p>
-      <p>
-        <a
-          href="http://craorg.com/pdf/CRANewsletter5_08c.pdf"
-          target="_blank"
-        >Volume 6, Issue 1, May, 2008 (PDF) -&gt;</a>
-      </p>
-      <p>
-        <a
-          href="http://craorg.com/pdf/CRANewsletter12_07.pdf"
-          target="_blank"
-        >Volume 5, Issue 3, December, 2007 (PDF) -&gt;</a>
-      </p>
-      <p>
-        <a
-          href="http://craorg.com/pdf/CRANewsletter6_07b.pdf"
-          target="_blank"
-        >Volume 5, Issue 2, June, 2007 (PDF) -&gt;</a>
-      </p>
-      <p>
-        <a
-          href="http://craorg.com/pdf/CRANewsletter%202_07.pdf"
-          target="_blank"
-        >Volume 5, Issue 1, February, 2007 (PDF) -&gt;</a>
-      </p>
-      <p>
-        <a
-          href="http://craorg.com/pdf/April2006Newsletter.pdf"
-          target="_blank"
-        >Volume 4, Issue 1, June, 2006 (PDF) -&gt;</a>
-      </p>
-      <p>
-        <a
-          href="http://craorg.com/pdf/October2005Newsletter.pdf"
-          target="_blank"
-        >Volume 3, Issue 2, October 2005 (PDF) -&gt;</a>
-      </p>
-      <p>
-        <a
-          href="http://craorg.com/pdf/march2005Newsletter.pdf"
-          target="_blank"
-        >Volume 3, Issue 1, March, 2005 (PDF) -&gt;</a>
-      </p>
-      <p>
-        <a
-          href="http://craorg.com/pdf/Sept2004Newsletter.pdf"
-          target="_blank"
-        >Volume 2, Issue 2,September, 2004 (PDF) -&gt;</a>
-      </p>
-      <p>
-        <a
-          href="http://craorg.com/pdf/march2004Newsletter.pdf"
-          target="_blank"
-        >Volume 2, Issue 1, March, 2004 (PDF) -&gt;</a>
-      </p>
-      <p>
-        <a
-          href="http://craorg.com/pdf/newsletter.pdf"
-          target="_blank"
-        >Volume 1, Issue 3, July, 2003 (PDF) -&gt;</a>
-      </p>
-      <p>
-        <a
-          href="http://craorg.com/pdf/Inter4Newsletter.pdf"
-          target="_blank"
-        >Volume 1, Issue 2, January 2003 (PDF) -&gt;</a>
-      </p>
-      <p>
-        <a
-          href="http://craorg.com/pdf/Inter3Newsletter.pdf"
-          target="_blank"
-        >Volume 1, Issue 1, October 2002 (PDF) -&gt;</a>
       </p>
     </div>
   </Layout>
